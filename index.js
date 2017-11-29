@@ -37,7 +37,7 @@ function sayHiToGrandma(string) {
   else if (string == "HELLO") {
     return("YES INDEED!")
   }
-  else (string == "I love you, Grandma.") {
+  else {string == "I love you, Grandma." 
     return("I love you, too.")
   }
   //return(`It's ${days} days until ${holiday}!`)
