@@ -31,13 +31,15 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  if (string == 'hello') {
+  if (string == "hello") {
     return("I can't hear you!")
   }
-  else if (string == 'HELLO') {
+  else if (string == "HELLO") {
     return("YES INDEED!")
   }
-  else (string = return("I love you, too.")
+  else (string ="") {
+    return("I love you, too.")
+  }
   //return(`It's ${days} days until ${holiday}!`)
   //return(`It's ${days} days until ${holiday}!`)
 }
