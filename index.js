@@ -20,7 +20,7 @@ console.log( string())
 
 function sayHiToGrandma(string, days) {
   return("I can't hear you!")
-  return("I can't hear you!")
+  return("YES INDEED")
   //return(`It's ${days} days until ${holiday}!`)
   //return(`It's ${days} days until ${holiday}!`)
 }
