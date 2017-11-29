@@ -18,8 +18,8 @@ console.log( string.toLowerCase())
 console.log( string())
 }*/
 
-function holidayCountdown(holiday, days) {
-  return(`It's ${days} days until ${holiday}!`)
+function sayHiToGrandma(string, days) {
+  return("I can't hear you!")
   return(`It's ${days} days until ${holiday}!`)
   return(`It's ${days} days until ${holiday}!`)
 }
