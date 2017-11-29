@@ -18,8 +18,8 @@ console.log( string.toLowerCase())
 console.log( string())
 }*/
 
-function sayHiToGrandma(string) {
-  return("I can't hear you!","YES INDEED!")
+function sayHiToGrandma(string, STRING) {
+  return("I can't hear you!","YES INDEED!", "I love you, too.")
   //return(`It's ${days} days until ${holiday}!`)
   //return(`It's ${days} days until ${holiday}!`)
 }
