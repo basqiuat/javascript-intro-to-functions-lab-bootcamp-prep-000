@@ -31,8 +31,8 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  if string = 
-  return("I love you, too.")
+  if string = 'hello' return("I love you, too.")
+  else string = ''
   //return(`It's ${days} days until ${holiday}!`)
   //return(`It's ${days} days until ${holiday}!`)
 }
